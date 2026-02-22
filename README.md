@@ -6,7 +6,9 @@ Built with a two-phase transfer learning strategy and optimized tf.data pipeline
 # Slides Included
 
 Slide 1: Dataset overview + training pipeline
+
 Slide 2: Model architecture + data flow
+
 Slide 3: Phase 1 vs Phase 2 training comparison
 
 # Key Features
