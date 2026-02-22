@@ -1,7 +1,4 @@
-# Overview
 
-Image classification project using EfficientNetB0 on the Intel Image Classification Dataset.
-Built with a two-phase transfer learning strategy and optimized tf.data pipeline.
 
 # Slides Included
 
