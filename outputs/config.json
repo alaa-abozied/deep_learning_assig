@@ -1,0 +1,16 @@
+{
+    "data_root": "intel_data",
+    "output_dir": "outputs",
+    "img_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "phase1_epochs": 15,
+    "phase2_epochs": 15,
+    "phase1_lr": 0.001,
+    "phase2_lr": 1e-05,
+    "dropout_rate": 0.4,
+    "dense_units": 256,
+    "unfreeze_last": 30
+}
